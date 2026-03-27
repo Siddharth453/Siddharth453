@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin
 - 📫 You can reach me at krsid777@gmail.com
 
-![Anurag's GitHub stats](https://vercel.app)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddharth453)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
